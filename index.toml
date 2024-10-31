@@ -18,11 +18,35 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "dd3a65697c252d1808cae8e226d02f9c5f292de3ab703052c1a9b64f48bd9de5"
+hash = "d0ea7b34184f712fc27f856cd8b9b53d51685caa4aa575b56a9d259cb2d02366"
 
 [[files]]
 file = "LICENSE"
 hash = "aa7e51b6dbf74bc28778d5cdcb54c2cf927d38ccab85d76bf8f0a1c6b79be3ed"
+
+[[files]]
+file = "config/oritech-config.json5"
+hash = "2a77a073c4a3983ee9b8f0b31748dbf5531968e74f5b94f6d67f89697d0614e8"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/Drafts/data/minecraft/worldgen/biome/mangrove_swamp.json"
+hash = "67083255d3503b3a6644efd3a116ae8b15771a0018c2142e3b4bab9841fb8ec6"
+
+[[files]]
+file = "config/paxi/datapacks/Drafts/data/minecraft/worldgen/world_preset/normal.json"
+hash = "879c7dbc20e95d7ccf2d69e6ca7851343262a4936763f6dc2acc6162431acd76"
+
+[[files]]
+file = "config/paxi/datapacks/Drafts/pack.mcmeta"
+hash = "6cb3769ed5d72fd5ae85e3be075045d889bb8f502705b5838acc1b1bf4eb987e"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -85,6 +109,11 @@ hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "a88062741d3dd0c2d835ddd4995c29cc3b6d702fd87b0cb13562c774a36cfb0c"
 metafile = true
@@ -97,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "4ab83564a6e16a9b61b13b05e7f13d86ac05069a4b45b678eb0f3b6a66b460d0"
 metafile = true
 
 [[files]]
@@ -190,6 +224,11 @@ hash = "14c177d85196e5f81b2fba22ecf5ee95abe5819709071634b3237437cb352572"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "a680bb2e4dcb84edca5386c5523d1654c89e5f79c81c6b616e03f77cc24d8c45"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "edb26988f45156fa58d0071e5f4dea51bdc3103d1d242b4a1c98f9dd0198dc71"
 metafile = true
@@ -197,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "20a941f234eb3182ddf55862ecfc9b5f24911a27e88310f2a127dd0e8d675008"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "501fd33b263cd55ffb8d72875ece5a5b107148cf98509961ad09c7fbfb98c4d3"
 metafile = true
 
 [[files]]
@@ -222,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/lavender.pw.toml"
 hash = "a84420a69589f905149634d0d074ada15af31228f29ecfc10fad2d55cf47404c"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "40d28830dafd312cbff5e6c4cf549f85fdcd52588c4bafe60d9d53a81208131e"
 metafile = true
 
 [[files]]
@@ -280,6 +329,11 @@ hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "1a991c547e95b480bf24dead9643a72e046c7ca8e7f1d6159d4a786eac30bf23"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
@@ -307,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "4c9833711924bb72dc2cb23a91580439d3c4f58b9ed78dcbece5054233162c44"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
@@ -357,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "52fe379cac9fc7ea76fd7c527fddfe50f0c48fa5aef351acca40bde83228d185"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "f08889988accf23a39c08c2934654553c8affc21bef5b33521d8997eeb33e95e"
 metafile = true
 
 [[files]]

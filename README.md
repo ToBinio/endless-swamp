@@ -10,7 +10,9 @@ Is a Minecraft modpack inspired by skyblock like modpacks, but instead of being 
 
 ## Missing mods
 
-* full bright
-* key binding search
-* inventory sort
-* inventory QOL changes
+## Todos
+
+* disable structures spawning
+* dont spawn iron-deepslate
+* ori-tech bedrock ores still spawning
+* configure nether
